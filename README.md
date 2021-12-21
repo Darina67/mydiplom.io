@@ -1,0 +1,2 @@
+# mydiplom.io
+diplom
